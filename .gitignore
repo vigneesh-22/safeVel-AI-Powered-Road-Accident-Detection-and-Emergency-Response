@@ -1,0 +1,9 @@
+.pio/
+.vscode/
+*.elf
+*.bin
+*.map
+src/config.local.h
+camera_node/secrets.h
+*.zip
+
